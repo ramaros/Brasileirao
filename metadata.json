@@ -1,0 +1,6 @@
+{
+  "name": "Brasileirão - Pontuação do Galo",
+  "description": "App desktop para acompanhamento da pontuação do Galo (Atlético Mineiro) rodada a rodada no Brasileirão (2024, 2025, 2026), cálculo de metas, rendimento e estatísticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
